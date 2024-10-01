@@ -4,6 +4,12 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+🌱 I am currently studying Software Development at SENA.
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://certificadossena.net/logo-sena/">
+</a>
+
 🌱 I am currently working on web development, for the maintenance of biomedical equipment.
 
 🤝 I am available to work from home.

@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola, soy Jose Meneses  👋
+<img src="C:\Users\JOSE\Desktop\robot_programing.jpg">
 <!--
 **josemeneses88/josemeneses88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

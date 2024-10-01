@@ -1,5 +1,5 @@
 ## Hola, soy Jose Meneses  👋
-<img src="C:\Users\JOSE\Desktop\robot_programing.jpg">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=100rabhcsmc&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
 <!--
 **josemeneses88/josemeneses88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
